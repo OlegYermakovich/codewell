@@ -1,0 +1,13 @@
+
+define( 'DB_NAME', 'codbyby_cod' );
+
+/** MySQL database username */
+define( 'DB_USER', 'codbyby_cod' );
+
+/** MySQL database password */
+define( 'DB_PASSWORD', 'tEGOUzKYc9frfC' );
+
+
+Artem Saidanov
+info@codewell.by
+gQ68al9bQGmX3zgkpN
